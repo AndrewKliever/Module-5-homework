@@ -1,2 +1,3 @@
 # Module-5-homework
-Module 5 Homework
+pymaceuticals_finished.ipynb is the finished code
+rest are images and dataframes from the exercise
